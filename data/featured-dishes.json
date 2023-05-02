@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://example.com/tacos-al-pastor.jpg",
+    "title": "Tacos al Pastor",
+    "desc": "A popular street food in Mexico consisting of thinly sliced pork that has been marinated in spices and chilies, then grilled and served on a soft corn tortilla with chopped onions, cilantro, and pineapple."
+  },
+  {
+    "id": 2,
+    "image": "https://example.com/guacamole.jpg",
+    "title": "Guacamole",
+    "desc": "A dip made from mashed avocado, lime juice, onions, tomatoes, and cilantro. It is often served with tortilla chips or as a condiment for tacos and other Mexican dishes."
+  },
+  {
+    "id": 3,
+    "image": "https://example.com/ceviche.jpg",
+    "title": "Ceviche",
+    "desc": "A dish made from raw fish or shrimp that has been marinated in citrus juices, then mixed with onions, tomatoes, cilantro, and chilies. It is often served as an appetizer or light lunch in Mexico and other Latin American countries."
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/pozole.jpg",
+    "title": "Pozole",
+    "desc": "A traditional soup or stew made with hominy, meat (usually pork), and chilies. It is often served with shredded cabbage, onions, radishes, and lime wedges on the side, and is commonly eaten as a celebratory dish during holidays and special occasions in Mexico."
+  },
+  {
+    "id": 5,
+    "image": "https://example.com/chiles-rellenos.jpg",
+    "title": "Chiles Rellenos",
+    "desc": "A dish made from large, mild chili peppers that have been stuffed with cheese or meat, then battered and fried. They are often served with a tomato-based sauce and rice or beans on the side."
+  },
+  {
+    "id": 6,
+    "image": "https://example.com/tamales.jpg",
+    "title": "Tamales",
+    "desc": "A traditional Mexican dish made from masa (corn dough) that has been filled with meat, cheese, or vegetables, then wrapped in a corn husk and steamed. They are often served with salsa or guacamole on the side."
+  },
+  {
+    "id": 7,
+    "image": "https://example.com/mole.jpg",
+    "title": "Mole",
+    "desc": "A rich, flavorful sauce made from a blend of chilies, spices, and other ingredients (such as chocolate or nuts) that is often served over chicken or other meats. There are many different varieties of mole, and it is often considered a signature dish of Mexican cuisine."
+  },
+  {
+    "id": 8,
+    "image": "https://example.com/horchata.jpg",
+    "title": "Horchata",
+    "desc": "A sweet, creamy drink made from rice, cinnamon, and sugar. It is often served cold and is a popular beverage in Mexico and other Latin American countries."
+  },
+  {
+    "id": 9,
+    "image": "https://example.com/enchiladas.jpg",
+    "title": "Enchiladas",
+    "desc": "A cold soup that is similar to gazpacho, but is typically made with fewer vegetables and more bread. It is a popular dish in the southern region of Andalusia."
+    },
+    {
+    "id": 10,
+    "image": "https://example.com/churros.jpg",
+    "title": "Churros",
+    "desc": "A sweet, fried pastry that is popular in Mexico and other Spanish-speaking countries. They are often served as a dessert or snack and are typically dusted with sugar and cinnamon."
+    }
+]
