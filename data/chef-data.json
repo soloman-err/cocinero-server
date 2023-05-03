@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Jamie Oliver",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 25,
+    "numRecipes": 150,
+    "numLikes": 553,
+    "bio": "Jamie Oliver is a British chef and restaurateur who is known for his approachable style and focus on healthy cooking.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Ina Garten",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 30,
+    "numRecipes": 100,
+    "numLikes": 409,
+    "bio": "Ina Garten is an American chef and author who is known for her simple and elegant approach to cooking.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Gordon Ramsay",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 35,
+    "numRecipes": 200,
+    "numLikes": 858,
+    "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality who is known for his fiery temper and high standards in the kitchen.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Nigella Lawson",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 20,
+    "numRecipes": 75,
+    "numLikes": 259,
+    "bio": "Nigella Lawson is a British food writer, chef, and television presenter who is known for her passionate and indulgent approach to cooking.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Mario Batali",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 30,
+    "numRecipes": 125,
+    "numLikes": 308,
+    "bio": "Mario Batali is an American chef, restaurateur, and media personality who is known for his Italian-American cuisine and signature orange Crocs. He has written several bestselling cookbooks and has hosted several television shows, including Molto Mario and Iron Chef America.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Bobby Flay",
+    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "experience": 25,
+    "numRecipes": 100,
+    "numLikes": 351,
+    "bio": "Bobby Flay is an American chef, restaurateur, and television personality who is known for his bold and innovative approach to cooking. He has written several cookbooks and has hosted several television shows, including Throwdown with Bobby Flay and Beat Bobby Flay.",
+    "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]
