@@ -1,0 +1,205 @@
+[  {
+    "id": 1,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Paella",
+    "ingredients": [
+      {
+        "id": 1,
+        "name": "Spaghetti",
+        "image": "https://www.example.com/images/spaghetti.jpg",
+        "desc": "Long, thin pasta noodles made from durum wheat semolina."
+      },
+      {
+        "id": 2,
+        "name": "Eggs",
+        "image": "https://www.example.com/images/eggs.jpg",
+        "desc": "Chicken eggs used for cooking and baking."
+      },
+      {
+        "id": 3,
+        "name": "Parmesan Cheese",
+        "image": "https://www.example.com/images/parmesan.jpg",
+        "desc": "A hard, granular cheese with a nutty and salty flavor, made from cow's milk."
+      },
+      {
+        "id": 4,
+        "name": "Bacon",
+        "image": "https://www.example.com/images/bacon.jpg",
+        "desc": "Cured and smoked pork belly, often sliced and cooked as a breakfast food."
+      },
+      {
+        "id": 5,
+        "name": "Black Pepper",
+        "image": "https://www.example.com/images/black_pepper.jpg",
+        "desc": "A pungent spice made from the dried, unripe berries of the pepper plant."
+      }
+    ],
+    "method": "Paella is made with a fragrant saffron-infused broth, loaded with an array of seafood or chicken, vegetables, and spices. It is a hearty and flavorful one-pan meal, perfect for sharing with family and friends."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Tortilla Española",
+    "ingredients": [
+    {
+      "id": 1,
+      "name": "Chicken",
+      "image": "https://www.example.com/images/chicken.jpg",
+      "desc": "Meat from domesticated birds, often used in cooking."
+    },
+    {
+      "id": 2,
+      "name": "Yogurt",
+      "image": "https://www.example.com/images/yogurt.jpg",
+      "desc": "A dairy product made by fermenting milk with a yogurt culture."
+    },
+    {
+      "id": 3,
+      "name": "Tomatoes",
+      "image": "https://www.example.com/images/tomatoes.jpg",
+      "desc": "A fruit used as a vegetable in cooking, with a sweet and slightly sour flavor."
+    },
+    {
+      "id": 4,
+      "name": "Spices",
+      "image": "https://www.example.com/images/spices.jpg",
+      "desc": "A mixture of various ground herbs and seeds used to add flavor to food."
+    },
+    {
+      "id": 5,
+      "name": "Onion",
+      "image": "https://www.example.com/images/onion.jpg",
+      "desc": "A bulb vegetable with a pungent flavor, often used as a base for cooking."
+    }
+  ],
+    "method": "A traditional Spanish omelette made with potatoes and onions, it is a staple dish that can be enjoyed any time of day, from breakfast to a late-night snack. It is easy to make, delicious, and versatile, as you can add other ingredients such as peppers or chorizo to make it your own."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Gazpacho",
+  "ingredients": [
+  {
+    "id": 1,
+    "name": "Beef",
+    "image": "https://www.example.com/images/beef.jpg",
+    "desc": "Meat from cows, typically used for cooking steaks, roasts, and ground beef."
+  },
+  {
+    "id": 2,
+    "name": "Sour Cream",
+    "image": "https://www.example.com/images/sour_cream.jpg",
+    "desc": "A dairy product commonly used as a condiment or ingredient in recipes."
+  },
+  {
+    "id": 3,
+    "name": "Onions",
+    "image": "https://www.example.com/images/onions.jpg",
+    "desc": "A vegetable with a distinctive flavor and odor, commonly used in cooking."
+  },
+  {
+    "id": 4,
+    "name": "Mushrooms",
+    "image": "https://www.example.com/images/mushrooms.jpg",
+    "desc": "Fleshy fungi that are commonly used in cooking and have a meaty texture and flavor."
+  }
+  ],
+  "method": "A refreshing cold soup made with fresh vegetables, bread, and olive oil, Gazpacho is perfect for hot summer days. It is a healthy and flavorful dish that is easy to make, and can be served as a light appetizer or a refreshing main course."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Patatas Bravas",
+  "ingredients": [
+  {
+    "id": 1,
+    "name": "Tomatoes",
+    "image": "https://www.example.com/images/tomatoes.jpg",
+    "desc": "A round or oblong fruit with a juicy pulp, used as a vegetable in cooking."
+  },
+  {
+    "id": 2,
+    "name": "Mozzarella Cheese",
+    "image": "https://www.example.com/images/mozzarella.jpg",
+    "desc": "A soft, mild cheese made from buffalo or cow's milk, often used in Italian cooking."
+  },
+  {
+    "id": 3,
+    "name": "Basil",
+    "image": "https://www.example.com/images/basil.jpg",
+    "desc": "A fragrant herb used in cooking, especially Italian cuisine."
+  },
+  {
+    "id": 4,
+    "name": "Balsamic Vinegar",
+    "image": "https://www.example.com/images/balsamic.jpg",
+    "desc": "A dark, syrupy vinegar made from grape must, aged in wooden barrels."
+  }
+],
+    "method": "Patatas Bravas are crispy fried potatoes served with a spicy tomato sauce. It is a hearty and satisfying dish that can be enjoyed as a snack or a side dish. It is easy to make and always a crowd-pleaser."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Croquetas",
+    "ingredients": [
+    {
+        "id": 1,
+        "name": "Chicken Breast",
+        "image": "https://www.example.com/images/chicken_breast.jpg",
+        "desc": "Boneless, skinless chicken breast fillets."
+    },
+    {
+        "id": 2,
+        "name": "Spinach",
+        "image": "https://www.example.com/images/spinach.jpg",
+        "desc": "A green, leafy vegetable rich in iron and other vitamins."
+    },
+    {
+        "id": 3,
+        "name": "Feta Cheese",
+        "image": "https://www.example.com/images/feta.jpg",
+        "desc": "A crumbly cheese made from sheep's milk or a mixture of sheep and goat's milk."
+    },
+    {
+        "id": 4,
+        "name": "Garlic",
+        "image": "https://www.example.com/images/garlic.jpg",
+        "desc": "A pungent bulb used as a seasoning in many cuisines."
+    }
+],
+    "method": "Croquetas are crispy, golden brown bites filled with a creamy mixture of ham or chicken, bechamel sauce, and other seasonings. They are perfect for sharing, and can be served as a starter or a light meal with a salad."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Churros",
+ "ingredients": [
+  {
+    "id": 1,
+    "name": "Pasta",
+    "image": "https://www.example.com/images/pasta.jpg",
+    "desc": "A type of Italian noodle typically made from wheat flour and water, and sometimes with eggs or other ingredients."
+  },
+  {
+    "id": 2,
+    "name": "Basil Pesto",
+    "image": "https://www.example.com/images/basil_pesto.jpg",
+    "desc": "A sauce made from basil, garlic, pine nuts, Parmesan cheese, and olive oil, typically used as a topping for pasta."
+  },
+  {
+    "id": 3,
+    "name": "Parmesan Cheese",
+    "image": "https://www.example.com/images/parmesan.jpg",
+    "desc": "A hard, granular cheese with a nutty and salty flavor, made from cow's milk."
+  },
+  {
+    "id": 4,
+    "name": "Cherry Tomatoes",
+    "image": "https://www.example.com/images/cherry_tomatoes.jpg",
+    "desc": "Small, sweet tomatoes typically used in salads and as a garnish."
+  }
+],
+    "method": "Churros are fried dough pastry that are crispy on the outside and soft on the inside. They are often served with hot chocolate for dipping and are perfect for a sweet snack or a decadent dessert."
+  }
+]

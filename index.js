@@ -6,6 +6,7 @@ const port = 4000;
 // server data:
 const featured = require('./data/featured-dishes.json');
 const chef = require('./data/chef-data.json');
+const recipes = require('./data/recipes.json');
 
 // cors:
 app.use(cors());
@@ -24,9 +25,12 @@ app.get('/chef', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
     const chefData = chef.find(data => data.id == id);
     res.send(chefData)
+})
+
+app.get('/recipes', (req, res) => {
+    res.send(recipes);
 })
 
 app.listen(port, () => {
