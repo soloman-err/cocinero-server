@@ -6,6 +6,8 @@
     "experience": 25,
     "numRecipes": 150,
     "numLikes": 553,
+    "rating": 4.8,
+
     "bio": "Jamie Oliver is a British chef and restaurateur who is known for his approachable style and focus on healthy cooking.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -16,6 +18,8 @@
     "experience": 30,
     "numRecipes": 100,
     "numLikes": 409,
+    "rating": 4.4,
+
     "bio": "Ina Garten is an American chef and author who is known for her simple and elegant approach to cooking.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -26,6 +30,8 @@
     "experience": 35,
     "numRecipes": 200,
     "numLikes": 858,
+        "rating": 4.0,
+
     "bio": "Gordon Ramsay is a British chef, restaurateur, and television personality who is known for his fiery temper and high standards in the kitchen.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -36,6 +42,8 @@
     "experience": 20,
     "numRecipes": 75,
     "numLikes": 259,
+        "rating": 4.7,
+
     "bio": "Nigella Lawson is a British food writer, chef, and television presenter who is known for her passionate and indulgent approach to cooking.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -46,6 +54,8 @@
     "experience": 30,
     "numRecipes": 125,
     "numLikes": 308,
+        "rating": 4.5,
+
     "bio": "Mario Batali is an American chef, restaurateur, and media personality who is known for his Italian-American cuisine and signature orange Crocs. He has written several bestselling cookbooks and has hosted several television shows, including Molto Mario and Iron Chef America.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -56,6 +66,8 @@
     "experience": 25,
     "numRecipes": 100,
     "numLikes": 351,
+        "rating": 4.4,
+
     "bio": "Bobby Flay is an American chef, restaurateur, and television personality who is known for his bold and innovative approach to cooking. He has written several cookbooks and has hosted several television shows, including Throwdown with Bobby Flay and Beat Bobby Flay.",
     "thumbnail": "https://images.unsplash.com/photo-1499715217757-2aa48ed7e593?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
   }
