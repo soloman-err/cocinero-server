@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Jamie Oliver",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Chris.jpg?w=620",
     "experience": 25,
     "numRecipes": 150,
     "numLikes": 553,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Ina Garten",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Mehreen.jpg?w=620",
     "experience": 30,
     "numRecipes": 100,
     "numLikes": 409,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Gordon Ramsay",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Nuri.jpg?w=620",
     "experience": 35,
     "numRecipes": 200,
     "numLikes": 858,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Nigella Lawson",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Omi.jpg?w=620",
     "experience": 20,
     "numRecipes": 75,
     "numLikes": 259,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Mario Batali",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Pilar.jpg?w=620",
     "experience": 30,
     "numRecipes": 125,
     "numLikes": 308,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Bobby Flay",
-    "image": "https://images.pexels.com/photos/2461838/pexels-photo-2461838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://www.goldderby.com/wp-content/uploads/2023/02/Next-Level-Chef-Tucker.jpg?w=620",
     "experience": 25,
     "numRecipes": 100,
     "numLikes": 351,
